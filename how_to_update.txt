@@ -3,4 +3,4 @@ how to update:
 
 [jegpeek@pluto jegpeek]$ pwd
 /grp/webpages/jegpeek
-[jegpeek@pluto jegpeek]$ wget https://raw.githubusercontent.com/jegpeek/jegpwebsite/master/index.html
+[jegpeek@pluto jegpeek]$ wget https://raw.githubusercontent.com/jegpeek/jegpwebsite/master/index.html --no-check-certificate
